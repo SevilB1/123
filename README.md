@@ -6,3 +6,4 @@ ankara
 İstanbul
 
 Şimdi nasıl olacak
+şimdi 
